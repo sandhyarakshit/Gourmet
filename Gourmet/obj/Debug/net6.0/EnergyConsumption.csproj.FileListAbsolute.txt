@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\EnergyConsumption\EnergyConsumption\obj\Debug\net6.0\EnergyConsumption.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\EnergyConsumption\EnergyConsumption\obj\Debug\net6.0\EnergyConsumption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\EnergyConsumption\EnergyConsumption\obj\Debug\net6.0\EnergyConsumption.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\EnergyConsumption\EnergyConsumption\obj\Debug\net6.0\EnergyConsumption.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\EnergyConsumption\EnergyConsumption\obj\Debug\net6.0\EnergyConsumption.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EnergyConsumption\EnergyConsumption\obj\Debug\net6.0\EnergyConsumption.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\EnergyConsumption\EnergyConsumption\obj\Debug\net6.0\EnergyConsumption.MvcApplicationPartsAssemblyInfo.cache
